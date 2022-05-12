@@ -1,0 +1,111 @@
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    margin: 0;
+    gap: 15px;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 17px;
+}
+
+.logo{
+    color: #f9faf8;
+    font-size: 20px;
+}
+
+.header{
+    display: flex;
+    background-color: #0b0f14;
+    justify-content: space-between;
+    padding: 20px 30px;
+   
+}
+
+
+.hero img, 
+.herotext{
+    height: 200px;
+    width: 400px;
+    border-radius:10px ;
+}
+
+.hero img{
+    border: 1px solid #212f42;
+}
+
+
+.herotext{
+    font-size: 30px;
+    color: #f9faf8;
+   
+}
+
+.hero p{
+    font-size: 18px;
+    margin: 0;
+    padding: 5px 4px;
+}
+
+.hero button{
+    background: #3882f6;
+    padding: 5px 20px;
+    border-radius: 4px;
+    border: 1px solid #212f42;
+    
+}
+
+.hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    padding: 30px;
+    background-color: #212f42;
+}
+
+
+
+
+
+
+.info{
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+    font-weight: 900;
+    color: #1f2937;
+}
+
+.acapella img {
+    width: 250px;
+    height: 200px;
+    border-radius: 5px;
+
+}
+
+.pixcontainer{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.vee{
+    width: 250px;
+    height: 200px;
+}
+
+.text{
+    text-align: center;
+}
