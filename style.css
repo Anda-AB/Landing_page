@@ -51,6 +51,7 @@ a{
 .herotext{
     font-size: 30px;
     color: #f9faf8;
+    font-weight: 900;
    
 }
 
@@ -58,6 +59,7 @@ a{
     font-size: 18px;
     margin: 0;
     padding: 5px 4px;
+    font-weight: 100;
 }
 
 .hero button{
@@ -120,6 +122,7 @@ a{
 .quote{
     width: 560px;
     font-size: 20px;
+    font-weight: 900;
 }
 
 .conquote{
@@ -159,6 +162,7 @@ a{
 .suboli{
     color: #e5e7eb;
     font-size: 20px;
+    font-weight: 900;
 }
 
 .oli button{
@@ -173,6 +177,7 @@ a{
 
 .try{
     font-size: 15px;
+    font-weight: 100;
    
 }
 
